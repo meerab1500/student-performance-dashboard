@@ -6,6 +6,9 @@ An interactive Machine Learning dashboard built using Python, Streamlit, and Sci
 
 This application allows users to upload a student performance dataset, explore it through interactive visualizations, and generate predictions using a trained Random Forest Regression model.
 
+#Live Demo
+https://student-performance-dashboard-497bqqfyv2gbotywkvzgaw.streamlit.app/
+
 ## Features
 
 - Upload CSV datasets
